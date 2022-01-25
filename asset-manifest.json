@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geraldedge.github.io/twentyfifth/static/css/main.49ba2565.css",
-    "main.js": "/geraldedge.github.io/twentyfifth/static/js/main.31122120.js",
-    "static/js/787.6c5116ef.chunk.js": "/geraldedge.github.io/twentyfifth/static/js/787.6c5116ef.chunk.js",
-    "index.html": "/geraldedge.github.io/twentyfifth/index.html",
-    "main.49ba2565.css.map": "/geraldedge.github.io/twentyfifth/static/css/main.49ba2565.css.map",
-    "main.31122120.js.map": "/geraldedge.github.io/twentyfifth/static/js/main.31122120.js.map",
-    "787.6c5116ef.chunk.js.map": "/geraldedge.github.io/twentyfifth/static/js/787.6c5116ef.chunk.js.map"
+    "main.css": "/twentyfifth/static/css/main.49ba2565.css",
+    "main.js": "/twentyfifth/static/js/main.5655a9cd.js",
+    "static/js/787.6c5116ef.chunk.js": "/twentyfifth/static/js/787.6c5116ef.chunk.js",
+    "index.html": "/twentyfifth/index.html",
+    "main.49ba2565.css.map": "/twentyfifth/static/css/main.49ba2565.css.map",
+    "main.5655a9cd.js.map": "/twentyfifth/static/js/main.5655a9cd.js.map",
+    "787.6c5116ef.chunk.js.map": "/twentyfifth/static/js/787.6c5116ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49ba2565.css",
-    "static/js/main.31122120.js"
+    "static/js/main.5655a9cd.js"
   ]
 }
